@@ -15,7 +15,7 @@ def run_guessing_game
       break
     end
 
-    puts "/The computer guessed 5./"
+    puts "/The computer guessed #{comp_num}./"
       #break
       #guess = gets.chomp
     #end
