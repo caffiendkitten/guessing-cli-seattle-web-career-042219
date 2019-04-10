@@ -13,11 +13,11 @@ def run_guessing_game
     elsif guess == "exit"
       puts "Goodbye!"
       break
-    else
-      #puts "/The computer guessed 5./"
-      break
-      #guess = gets.chomp
     end
+      #puts "/The computer guessed 5./"
+      #break
+      #guess = gets.chomp
+    #end
 
   end
 end
