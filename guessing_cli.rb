@@ -15,7 +15,8 @@ def run_guessing_game
       break
     else
       puts "/The computer guessed 5./"
-      guess = gets.chomp
+      break
+      #guess = gets.chomp
     end
 
   end
