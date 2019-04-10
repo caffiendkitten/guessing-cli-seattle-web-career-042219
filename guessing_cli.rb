@@ -14,7 +14,7 @@ def run_guessing_game
       puts "Goodbye!"
       break
     end
-      #puts "/The computer guessed 5./"
+      puts "/The computer guessed 5./"
       #break
       #guess = gets.chomp
     #end
